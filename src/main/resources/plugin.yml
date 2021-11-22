@@ -1,0 +1,4 @@
+name: LimboTestPlugin
+main: com.loohp.limbodefaultcmd.LimboDefaultCmd
+version: 1.0
+author: Matti
